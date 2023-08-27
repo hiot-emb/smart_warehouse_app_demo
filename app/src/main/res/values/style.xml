@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="smart_garde">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">#82000000</item>
+    </style>
+
+    <style name="welcome">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textColor">#FA000000</item>
+    </style>
+
+    <style name="home">
+        <item name="android:textSize">65sp</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textColor">#0D000000</item>
+    </style>
+
+    <style name="right_title">
+        <item name="android:textSize">17sp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:textColor">#66000000</item>
+    </style>
+
+    <style name="temperature">
+        <item name="android:textSize">15sp</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="some_id">
+        <item name="android:textSize">38sp</item>
+        <item name="android:textColor">#0943D6</item>
+    </style>
+
+    <style name="humidity">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#FEFEFD</item>
+    </style>
+    <style name="ph">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#FEFEFD</item>
+    </style>
+
+    <style name="som_id">
+        <item name="android:textSize">40sp</item>
+        <item name="android:letterSpacing">0.03</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="some_light">
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">#F96167</item>
+    </style>
+
+    <style name="some_ph">
+        <item name="android:textSize">30sp</item>
+        <item name="android:letterSpacing">0.03</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="lighting">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="fan">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+
+
+</resources>

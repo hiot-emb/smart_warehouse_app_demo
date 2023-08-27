@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="smart_garde">Smart WareHouse App</string>
+
+    <string name="welcome">Welcome</string>
+
+    <string name="home">HOME</string>
+
+    <string name="right_title">\u00F4\u0080\u00A3\u008B</string>
+
+    <string name="Temperature">Temperature</string>
+
+    <string name="some_id">35%</string>
+
+    <string name="humidity">Humidity</string>
+
+    <string name="som_id">28\u00B0</string>
+
+    <string name="lighting">Lighting</string>
+
+    <string name="fan1">Fan1</string>
+    <string name="fan2">Fan2</string>
+
+    <string name="water_pump">Water Pump</string>
+
+    <string name="sunshade">Sunshade</string>
+
+    <string name="gas">Gas</string>
+
+    <string name="light1">Light1</string>
+    <string name="light2">Light2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
